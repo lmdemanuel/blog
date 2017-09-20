@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{"./node_modules/json-loader/index.js!./.cache/json/index.json":function(e,t){e.exports={data:{site:{siteMetadata:{title:"Luis's Blog"}},allMarkdownRemark:{edges:[{node:{excerpt:"",frontmatter:{path:"/hello-world/",date:"20 September, 2017",title:"Hello World"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-e4c610fc2ff934fc3d08.js.map
