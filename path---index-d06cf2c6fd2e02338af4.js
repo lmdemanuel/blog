@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{"./node_modules/json-loader/index.js!./.cache/json/index.json":function(e,t){e.exports={data:{site:{siteMetadata:{title:"Luis DeManuel"}},allMarkdownRemark:{edges:[{node:{excerpt:"",frontmatter:{path:null,date:null,title:""}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-d06cf2c6fd2e02338af4.js.map
