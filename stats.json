@@ -8,10 +8,6 @@
       "component---src-pages-proyectos-folgoso-index-jsx-f40f1405a6074d08ab76.js",
       "component---src-pages-proyectos-folgoso-index-jsx-f40f1405a6074d08ab76.js.map"
     ],
-    "path---blog": [
-      "path---blog-49d4e5ed6e3cc93b77af.js",
-      "path---blog-49d4e5ed6e3cc93b77af.js.map"
-    ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
@@ -23,10 +19,6 @@
     "path---proyectos-lookingfoz": [
       "path---proyectos-lookingfoz-a0e39f21c11f6a62c5ab.js",
       "path---proyectos-lookingfoz-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-dc4ab3233d9266deb8e3.js",
-      "component---src-templates-blog-post-js-dc4ab3233d9266deb8e3.js.map"
     ],
     "path---proyectos": [
       "path---proyectos-a0e39f21c11f6a62c5ab.js",
@@ -43,10 +35,6 @@
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "component---src-pages-blog-index-js": [
-      "component---src-pages-blog-index-js-7e6fdf93f0a5ec07cc82.js",
-      "component---src-pages-blog-index-js-7e6fdf93f0a5ec07cc82.js.map"
     ],
     "component---src-pages-contacto-index-jsx": [
       "component---src-pages-contacto-index-jsx-3f570b3ae6c465e7797b.js",
@@ -66,10 +54,6 @@
       "component---src-pages-404-jsx-3b0bc90ecc0ff647038c.js",
       "component---src-pages-404-jsx-3b0bc90ecc0ff647038c.js.map"
     ],
-    "path---blog-hola-mundo": [
-      "path---blog-hola-mundo-15b78713cbe3f4a62348.js",
-      "path---blog-hola-mundo-15b78713cbe3f4a62348.js.map"
-    ],
     "component---src-pages-index-jsx": [
       "component---src-pages-index-jsx-f3f64a0e4a1f39da6e03.js",
       "component---src-pages-index-jsx-f3f64a0e4a1f39da6e03.js.map"
@@ -83,9 +67,9 @@
       "component---src-pages-proyectos-index-jsx-d362a74796af25d6491a.js.map"
     ],
     "app": [
-      "app-d517ae0d4306709179b7.js",
+      "app-8c233289bf22b631ece0.js",
       "build-js-styles.css",
-      "app-d517ae0d4306709179b7.js.map",
+      "app-8c233289bf22b631ece0.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-proyectos-lookingfoz-index-jsx": [
