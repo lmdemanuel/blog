@@ -1,0 +1,2 @@
+webpackJsonp([49683490770531],{385:function(a,o){a.exports={data:{allMarkdownRemark:{edges:[{node:{excerpt:"Hola mundo!",id:"/Users/luis/www/luis.demanuel.me/src/posts/hola-mundo.md absPath of file >>> MarkdownRemark",frontmatter:{title:"Hola mundo",date:"July 12, 2017",path:"/blog/hola-mundo"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---blog-49d4e5ed6e3cc93b77af.js.map

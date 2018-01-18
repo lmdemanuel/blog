@@ -1,0 +1,2 @@
+webpackJsonp([0xaafbe8b8c8c7],{384:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Hola mundo!</p>",frontmatter:{date:"July 12, 2017",path:"/blog/hola-mundo",title:"Hola mundo"}}},pathContext:{}}}});
+//# sourceMappingURL=path---blog-hola-mundo-15b78713cbe3f4a62348.js.map
