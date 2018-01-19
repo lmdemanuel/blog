@@ -1,92 +1,33 @@
 {
   "assetsByChunkName": {
-    "component---src-pages-proyectos-ardelvcvs-index-jsx": [
-      "component---src-pages-proyectos-ardelvcvs-index-jsx-2f5daaae3e4897c3c683.js",
-      "component---src-pages-proyectos-ardelvcvs-index-jsx-2f5daaae3e4897c3c683.js.map"
-    ],
-    "component---src-pages-proyectos-folgoso-index-jsx": [
-      "component---src-pages-proyectos-folgoso-index-jsx-f40f1405a6074d08ab76.js",
-      "component---src-pages-proyectos-folgoso-index-jsx-f40f1405a6074d08ab76.js.map"
-    ],
-    "path---": [
-      "path----557518bd178906f8d58a.js",
-      "path----557518bd178906f8d58a.js.map"
-    ],
-    "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-acc989a9c25a6cb508f6.js",
-      "component---src-layouts-index-jsx-acc989a9c25a6cb508f6.js.map"
-    ],
-    "path---proyectos-lookingfoz": [
-      "path---proyectos-lookingfoz-a0e39f21c11f6a62c5ab.js",
-      "path---proyectos-lookingfoz-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "path---proyectos": [
-      "path---proyectos-a0e39f21c11f6a62c5ab.js",
-      "path---proyectos-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "path---contacto": [
-      "path---contacto-a0e39f21c11f6a62c5ab.js",
-      "path---contacto-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "component---src-pages-about-index-jsx": [
-      "component---src-pages-about-index-jsx-4b248574fe56952da16c.js",
-      "component---src-pages-about-index-jsx-4b248574fe56952da16c.js.map"
-    ],
-    "path---index": [
-      "path---index-a0e39f21c11f6a62c5ab.js",
-      "path---index-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "component---src-pages-contacto-index-jsx": [
-      "component---src-pages-contacto-index-jsx-3f570b3ae6c465e7797b.js",
-      "component---src-pages-contacto-index-jsx-3f570b3ae6c465e7797b.js.map"
-    ],
+    "component---src-pages-proyectos-ardelvcvs-index-jsx": "component---src-pages-proyectos-ardelvcvs-index-jsx-2f5daaae3e4897c3c683.js",
+    "component---src-pages-proyectos-folgoso-index-jsx": "component---src-pages-proyectos-folgoso-index-jsx-f40f1405a6074d08ab76.js",
+    "path---": "path----557518bd178906f8d58a.js",
+    "component---src-layouts-index-jsx": "component---src-layouts-index-jsx-acc989a9c25a6cb508f6.js",
+    "path---proyectos-lookingfoz": "path---proyectos-lookingfoz-a0e39f21c11f6a62c5ab.js",
+    "path---proyectos": "path---proyectos-a0e39f21c11f6a62c5ab.js",
+    "path---contacto": "path---contacto-a0e39f21c11f6a62c5ab.js",
+    "component---src-pages-about-index-jsx": "component---src-pages-about-index-jsx-4b248574fe56952da16c.js",
+    "path---index": "path---index-a0e39f21c11f6a62c5ab.js",
+    "component---src-pages-contacto-index-jsx": "component---src-pages-contacto-index-jsx-3f570b3ae6c465e7797b.js",
     "commons": [
       "commons-f42d1f03fa815fb93416.js",
       "build-js-styles.css",
-      "commons-f42d1f03fa815fb93416.js.map",
       "build-js-styles.css.map"
     ],
-    "path---404-html": [
-      "path---404-html-a0e39f21c11f6a62c5ab.js",
-      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "component---src-pages-404-jsx": [
-      "component---src-pages-404-jsx-3b0bc90ecc0ff647038c.js",
-      "component---src-pages-404-jsx-3b0bc90ecc0ff647038c.js.map"
-    ],
-    "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-f3f64a0e4a1f39da6e03.js",
-      "component---src-pages-index-jsx-f3f64a0e4a1f39da6e03.js.map"
-    ],
-    "path---proyectos-ardelvcvs": [
-      "path---proyectos-ardelvcvs-a0e39f21c11f6a62c5ab.js",
-      "path---proyectos-ardelvcvs-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "component---src-pages-proyectos-index-jsx": [
-      "component---src-pages-proyectos-index-jsx-d362a74796af25d6491a.js",
-      "component---src-pages-proyectos-index-jsx-d362a74796af25d6491a.js.map"
-    ],
+    "path---404-html": "path---404-html-a0e39f21c11f6a62c5ab.js",
+    "component---src-pages-404-jsx": "component---src-pages-404-jsx-3b0bc90ecc0ff647038c.js",
+    "component---src-pages-index-jsx": "component---src-pages-index-jsx-f3f64a0e4a1f39da6e03.js",
+    "path---proyectos-ardelvcvs": "path---proyectos-ardelvcvs-a0e39f21c11f6a62c5ab.js",
+    "component---src-pages-proyectos-index-jsx": "component---src-pages-proyectos-index-jsx-d362a74796af25d6491a.js",
     "app": [
-      "app-6480a278604b29da4d88.js",
+      "app-1b1076a0247d7432ca63.js",
       "build-js-styles.css",
-      "app-6480a278604b29da4d88.js.map",
       "build-js-styles.css.map"
     ],
-    "component---src-pages-proyectos-lookingfoz-index-jsx": [
-      "component---src-pages-proyectos-lookingfoz-index-jsx-a6175ca4ed0116c434df.js",
-      "component---src-pages-proyectos-lookingfoz-index-jsx-a6175ca4ed0116c434df.js.map"
-    ],
-    "path---proyectos-folgoso": [
-      "path---proyectos-folgoso-a0e39f21c11f6a62c5ab.js",
-      "path---proyectos-folgoso-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "path---404": [
-      "path---404-a0e39f21c11f6a62c5ab.js",
-      "path---404-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "path---about": [
-      "path---about-a0e39f21c11f6a62c5ab.js",
-      "path---about-a0e39f21c11f6a62c5ab.js.map"
-    ]
+    "component---src-pages-proyectos-lookingfoz-index-jsx": "component---src-pages-proyectos-lookingfoz-index-jsx-a6175ca4ed0116c434df.js",
+    "path---proyectos-folgoso": "path---proyectos-folgoso-a0e39f21c11f6a62c5ab.js",
+    "path---404": "path---404-a0e39f21c11f6a62c5ab.js",
+    "path---about": "path---about-a0e39f21c11f6a62c5ab.js"
   }
 }
